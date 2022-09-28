@@ -39,5 +39,5 @@ yarn install
 - 🎁 [Redeem Retryable Ticket](./packages/redeem-failed-retryable/)
 
 <p align="center">
-  <img width="350" height="300" src= "https://github.com/mantlenetworkio/mantle-tutorial/blob/main/assets/mantle.png" />
+  <img width="350" height="260" src= "https://github.com/mantlenetworkio/mantle-tutorial/blob/main/assets/mantle.png" />
 </p>
