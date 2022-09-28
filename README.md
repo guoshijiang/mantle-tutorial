@@ -39,5 +39,5 @@ yarn install
 - 🎁 [Redeem Retryable Ticket](./packages/redeem-failed-retryable/)
 
 <p align="center">
-  <img width="350" height="100" src= "https://mantle.io/wp-content/uploads/2021/01/cropped-Mantle_Horizontal-Logo-Full-color-White-background-scaled-1.jpg" />
+  <img width="350" height="100" src= "https://github.com/mantlenetworkio/mantle-tutorial/blob/main/assets/mantle.png" />
 </p>
